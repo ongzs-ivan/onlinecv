@@ -1,33 +1,21 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    position: right
+    about: false
+    education: True
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Ivan Ong Zhisien
+    tagline: Game Programmer
+    avatar: profile.png 
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: ongzs.ivan@gmail.com
+    phone: +6018 3637 639
+    timezone: Kuala Lumpur, Singapore
+    citizenship: Malaysian
+    website: ongzs-ivan.github.io
+    linkedin: ivan-ong-a4522870
+    github: ongzs-ivan
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -36,22 +24,22 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: Bahasa Melayu
+          level: Conversational
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Japanese
+          level: Beginner
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Model kit building 
           link:
 
-        - item: Snowboarding
+        - item: Cosplaying
           link:
 
-        - item: Cooking
+        - item: Reading
           link:
 
 career-profile:
@@ -63,72 +51,49 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Bachelors of Game Development (Hons)
+        university: University of Wollongong Malaysia KDU
+        time: 2018 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Went into this course as it taught both computer science skills as well as game development skills.
+      - degree: Bachelors of Mechatronic Engineering (Hons)
+        university: University Tunku Abdul Rahman
+        time: 2016 - 2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Completed up to two semesters before I realized I had more passion for programming than for physics.
+      - degree: Bachelors of Mechanical Engineering (Hons)
+        university: University of Nottingham Malaysia
+        time: 2013 - 2016
+        details: |
+          Completed up to my second year and dropped out because I felt that mechatronics was more to my interests.
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Junior Game Programmer
+        time: Jan 2022 - Present
+        company: Double Eleven Studios, Malaysia
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Worked on porting PC games to console. 
+          Was tasked with but not limited to implementing new features and 
+          gameplay mechanics, debugging, network, shader programming
+          Worked on a couple of reputable game titles such as:
+            - Minecraft Dungeons (2020)
+            - Prison Architect 2 (2024)
+            - Rust: Console Edition (2021)
+      - role: Intern Game Programmer
+        time: May 2021 - Dec 2021
+        company: Hidden Chest Studio, Malaysia
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Before graduating, I interned under a Malaysian indie game studio for 3 months.
+          Worked on their title "Midwest 90: Rapid City", a restaurant simulator game.
+          After graduating, continued working with them for 5 more months.
+          My contributions involved implementing new features and game mechanics, bug fixing
+          and shader progamming.
 
 certifications:
       title: Certifications
@@ -198,68 +163,26 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C++
+        level: 85%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: C#
+        level: 85%
 
       - name: Angular
         level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 40%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Ruby & Jekyll
+        level: 40%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: GIMP & Photoshop
+        level: 30%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#tools: git, tortoisesvn, visual studio, visual code, jira, winmerge, bitbucket, phabricator/differential
