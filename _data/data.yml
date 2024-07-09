@@ -11,7 +11,7 @@ sidebar:
     # Sidebar links
     email: ongzs.ivan@gmail.com
     phone: +6018 3637 639
-    timezone: Kuala Lumpur, Singapore
+    timezone: Kuala Lumpur
     citizenship: Malaysian
     website: ongzs-ivan.github.io
     linkedin: ivan-ong-a4522870
@@ -59,17 +59,18 @@ education:
         university: University of Wollongong Malaysia KDU
         time: 2018 - 2021
         details: |
-          Went into this course as it taught both computer science skills as well as game development skills.
+          Joined the course as programmer where I ;earned the ins-and-outs of game development, including the whole workflow and process.
+          <br> Wrote a thesis for my final year, involving network programming and Unreal Engine.
       - degree: Bachelors of Mechatronic Engineering (Hons)
         university: University Tunku Abdul Rahman
         time: 2016 - 2017
         details: |
-          Completed up to two semesters before I realized I had more passion for programming than for physics.
+          Completed up to two semesters and changed courses due to a shift in interests.
       - degree: Bachelors of Mechanical Engineering (Hons)
         university: University of Nottingham Malaysia
         time: 2013 - 2016
         details: |
-          Completed up to my second year and dropped out because I felt that mechatronics was more to my interests.
+          Completed up to my second year and changed courses due to a shift in interests.
 
 experiences:
     title: Experiences
@@ -77,91 +78,41 @@ experiences:
       - role: Junior Game Programmer
         time: Jan 2022 - Present
         company: Double Eleven Studios, Malaysia
+        link: https://double11.com/
         details: |
-          Worked on porting PC games to console. 
-          Was tasked with but not limited to implementing new features and 
-          gameplay mechanics, debugging, network, shader programming
-          Worked on a couple of reputable game titles such as:
+          Worked on multiple projects, porting PC games to PlayStation and Xbox platform.
+          <br>I was never confined to a specific role and as such was involved in many different fields across multiple projects.
+          These included (but were not limited to) feature and gameplay mechanics implementation, network programming, UI, graphics and debugging.
+          <br>Among the titles I've worked on are:
             - Minecraft Dungeons (2020)
             - Prison Architect 2 (2024)
             - Rust: Console Edition (2021)
       - role: Intern Game Programmer
         time: May 2021 - Dec 2021
         company: Hidden Chest Studio, Malaysia
+        link: https://www.linkedin.com/company/hidden-chest-studio/
         details: |
-          Before graduating, I interned under a Malaysian indie game studio for 3 months.
-          Worked on their title "Midwest 90: Rapid City", a restaurant simulator game.
-          After graduating, continued working with them for 5 more months.
-          My contributions involved implementing new features and game mechanics, bug fixing
-          and shader progamming.
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          Helped developed the company's title "Midwest 90: Rapid City", a monster-cuisine restaurant simulator game.
+          <br>My contributions involved implementing new features and game mechanics, bug fixing
+          and improving the graphics (adding new shaders, post-processing effects and special VFX via Unity's HDRP).
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Radion Heist
+        link: "https://4dots.itch.io/radion-heist"
+        tagline: "A first-person cyberpunk-themed parkour game made in Unreal Engine. 
+        <br>The game features an online multiplayer lobby-based system through Steam."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: HOLY
+        link: "https://aidansanjay.itch.io/holy"
+        tagline: "A DOOM inspired first-person shooter game which I made in a team for a Game Jam event." 
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Trafficking
+        link: "https://uowmgames.itch.io/trafficking"
+        tagline: "A traffic-controller puzzle game made for the Android-mobile phone platform."
 
 skills:
     title: Skills &amp; Proficiency
