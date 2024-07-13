@@ -14,7 +14,7 @@ sidebar:
     timezone: Kuala Lumpur
     citizenship: Malaysian
     website: ongzs-ivan.github.io
-    linkedin: ivan-ong-a4522870
+    linkedin: ivanongzs
     github: ongzs-ivan
     pdf: http://www.africau.edu/images/default/sample.pdf
 
@@ -45,12 +45,20 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      <p> 
+      I'm an experienced game developer with almost 4 years of experience in the industry. 
+      Including my experiences graduating as a game development programmer in 2021, I've accumulated 4+ years as a Unity developer and 3+ years as an Unreal Engine developer.
+      </p>
+
+      <p> 
+      As a programmer, I've found working with code to be both a challenge as well as a joy in my life. 
+      Learning new concepts and more optimal ways to write code always brings a smile to my face. 
+      </p>
+
+      <p>
+      As an invidual, I'm both open-minded and a team player which easily allows me to work with others.
+      Aside from playing video games, I really enjoy building plastic model kits on my free time.
+      </p>
 
 education:
     title: Education
@@ -59,7 +67,7 @@ education:
         university: University of Wollongong Malaysia KDU
         time: 2018 - 2021
         details: |
-          Joined the course as programmer where I ;earned the ins-and-outs of game development, including the whole workflow and process.
+          Joined the course as programmer where I learned the ins-and-outs of game development, including the whole workflow and process.
           <br> Wrote a thesis for my final year, involving network programming and Unreal Engine.
       - degree: Bachelors of Mechatronic Engineering (Hons)
         university: University Tunku Abdul Rahman
@@ -80,9 +88,9 @@ experiences:
         company: Double Eleven Studios, Malaysia
         link: https://double11.com/
         details: |
-          Worked on multiple projects, porting PC games to PlayStation and Xbox platform.
-          <br>I was never confined to a specific role and as such was involved in many different fields across multiple projects.
-          These included (but were not limited to) feature and gameplay mechanics implementation, network programming, UI, graphics and debugging.
+          I was involved in multiple projects, porting PC games to the PlayStation and Xbox platform.
+          <br>I was involved in many different fields across multiple projects and was not limited to a specific role.
+          My contributions include feature and gameplay mechanics implementation, network programming, UI, graphics and debugging.
           <br>Among the titles I've worked on are:
             - Minecraft Dungeons (2020)
             - Prison Architect 2 (2024)
@@ -119,21 +127,27 @@ skills:
 
     toolset:
       - name: C++
-        level: 85%
+        level: 75%
+
+      - name: Unreal Engine
+        level: 65%
 
       - name: C#
-        level: 85%
+        level: 75%
 
-      - name: Angular
-        level: 98%
+      - name: Unity Engine
+        level: 70%
+
+      - name: Godot Engine
+        level: 40%
 
       - name: HTML5 & CSS
-        level: 40%
+        level: 30%
 
       - name: Ruby & Jekyll
-        level: 40%
+        level: 30%
 
       - name: GIMP & Photoshop
-        level: 30%
+        level: 20%
 
 #tools: git, tortoisesvn, visual studio, visual code, jira, winmerge, bitbucket, phabricator/differential
