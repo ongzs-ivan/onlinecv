@@ -42,6 +42,9 @@ sidebar:
         - item: Reading
           link:
 
+        - item: Woodwork & carpentry
+          link:
+
 career-profile:
     title: Career Profile
     summary: |
@@ -150,4 +153,15 @@ skills:
       - name: GIMP & Photoshop
         level: 20%
 
-#tools: git, tortoisesvn, visual studio, visual code, jira, winmerge, bitbucket, phabricator/differential
+tools: 
+    title: Tools
+    
+    info:
+      - item: Git
+      - item: TortoiseSVN
+      - item: Visual Studio
+      - item: Visual Code
+      - item: JIRA
+      - item: WinMerge
+      - item: BitBucket
+      - item: Phabricator/Differential

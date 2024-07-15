@@ -1,0 +1,21 @@
+{% assign tools = site.data.data.tools %} 
+{% if tools %}
+<section class="tools-section section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ tools.title }}
+  </h2>
+
+  <ul class="list-inline tools">
+    {% for tool in tools.info %}
+    <li class="item">
+        <h5 class="tools-title">{{ tool.item }} &nbsp </h5>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+<!--//tools-section-->
+{% endif %}
