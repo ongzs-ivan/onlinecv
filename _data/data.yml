@@ -46,18 +46,18 @@ career-profile:
     title: Career Profile
     summary: |
       <p> 
-      I'm a video game developer with 4 years of experience working in a professional environment. <br>
-      With an accumulative experience of 4+ years with Unity, 3+ years with Unreal Engine and a love for what I do, I'm quite confident in my job.
+      I'm a video game developer with 4 years of experience working in a professional environment.
+      With over 4 years of hands-on experience in Unity and 3 years in Unreal Engine, I've developed a solid foundation in programming and a strong, lasting passion for game development.
       </p>
 
       <p> 
-      While I don't pride myself a genius, I am well-versed in common and best practices with coding such as OOP, DSA, memory usage, all of which help me to write more optimized code.
-      Not to mention concepts more specific to game development, where my main interest lies in character AI systems (especially state machines).
+      I'm well-versed in core programming concepts such as <strong>OOP</strong>, <strong>DSA</strong> and <strong>memory management</strong>, and I have considerable experience with <strong>debugging</strong>.
+      While I've worked on a range of features, my primary interest lies in developing more intelligent and responsive <strong>character AI</strong>—particularly through well-designed state machines.
       </p>
 
       <p>
-      As someone who is driven by clear objectives and guidelines, as long as there is a proper goal, I can easily handle tasks that come my way even if it is out of my comfort zone.
-      For example, despite not being a social person, I have no problems expressing my opinion and discussing a task with others to determine an optimal solution.
+      I am capable of <strong>managing tasks</strong> effectively, particularly when guided by clear objectives and well-defined guidelines—even when working outside my comfort zone.
+      Although I tend to be introverted, I make a consistent effort to communicate my ideas clearly while collaborating with the team to reach optimal solutions.
       </p>
 
 education:
@@ -90,13 +90,12 @@ experiences:
         company: Double Eleven Studios, Malaysia
         link: https://double11.com/
         details: |
-          Contributed in the company's service of porting PC games to consoles (PlayStation/Xbox).
+          I contributed to porting PC games to consoles, including PlayStation and Xbox platforms.
+          I've worked on various features such as <strong>gameplay mechanics</strong>, <strong>world systems</strong>, <strong>networking</strong>, <strong>UI</strong>, <strong>graphics/shaders</strong>, <strong>AI</strong> and <strong>in-house engine tools</strong>.
+          Aside from feature implementations, I also undertook various responsibilities such as <strong>code reviewing</strong>, <strong>debugging crashes</strong> and managing builds for the shipped product.
           <br>
-          I've worked on more than 400 tasks (both big and small) throughout my years in the company.
-          These tasks include, but are not limited to, gameplay/feature implementation, networking, UI, graphics/shaders, AI, debugging, code optimization and code reviewing.
-          <br><br>
           
-          Among the titles I've worked on so far:
+          Among the <strong>titles I've worked on</strong>:
             - Minecraft Dungeons (2022-2023)
             - Prison Architect 2 (2023-2024)
             - Rust: Console Edition (2024-present)
@@ -106,25 +105,25 @@ experiences:
         company: Hidden Chest Studio, Malaysia
         link: https://www.linkedin.com/company/hidden-chest-studio/
         details: |
-          I was involved in the company's title "Midwest 90: Rapid City", a monster-cuisine restaurant simulator game 
-          where I helped implement new mechanics and features, and improved on the games graphics (shaders, post-processing effects and VFX).
+          I was involved in developing the company's title "Midwest 90: Rapid City", a monster-cuisine restaurant simulator game. 
+          I contributed in developing gameplay mechanics, enemy AI system and improved on the games graphics (shaders, post-processing effects and VFX).
 
 projects:
     title: Projects
     intro: >
       
     assignments:
-      - title: Radion Heist
+      - title: Radion Heist (2020)
         link: "https://4dots.itch.io/radion-heist"
-        tagline: "A first-person cyberpunk-themed parkour game made in Unreal Engine.<br>Features an online multiplayer lobby-based system through Steam."
+        tagline: <br>A first-person cyberpunk-themed parkour game made in Unreal Engine that runs via P2P online multiplayer lobby system through Steam.
 
-      - title: HOLY
+      - title: HOLY (2020)
         link: "https://aidansanjay.itch.io/holy"
-        tagline: "A DOOM inspired first-person shooter game (made in a 5-man team for a Game Jam)." 
+        tagline: <br>A DOOM inspired first-person shooter game (made in a 5-man team for a Game Jam).
 
-      - title: Trafficking
+      - title: Trafficking (2018)
         link: "https://uowmgames.itch.io/trafficking"
-        tagline: "A university project made for the Android platform where players control traffic lights in this puzzle solving game."
+        tagline: <br>A university project made for the Android platform where players control traffic lights in this puzzle solving game.
 
 skills:
     title: Skills &amp; Proficiency
@@ -160,11 +159,15 @@ tools:
     info:
       - item: Git
       - item: TortoiseSVN
+      - item: SourceTree
       - item: Visual Studio
       - item: Visual Code
+      - item: Azure DevOps
       - item: JIRA
       - item: WinMerge
       - item: BitBucket
       - item: Phabricator/Differential
       - item: PIX
       - item: RenderDoc
+      - item: TeamCity
+
