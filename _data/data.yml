@@ -106,24 +106,24 @@ experiences:
         link: https://www.linkedin.com/company/hidden-chest-studio/
         details: |
           I was involved in developing the company's title "Midwest 90: Rapid City", a monster-cuisine restaurant simulator game. 
-          I contributed in developing gameplay mechanics, enemy AI system and improved on the games graphics (shaders, post-processing effects and VFX).
+          I contributed in developing <strong>gameplay mechanics</strong>, <strong>enemy AI</strong> system and improved on the games <strong>graphics</strong> (shaders, post-processing effects and VFX).
 
-projects:
-    title: Projects
-    intro: >
+# projects:
+#     title: Projects
+#     intro: >
       
-    assignments:
-      - title: Radion Heist (2020)
-        link: "https://4dots.itch.io/radion-heist"
-        tagline: <br>A first-person cyberpunk-themed parkour game made in Unreal Engine that runs via P2P online multiplayer lobby system through Steam.
+#     assignments:
+#       - title: Radion Heist (2020)
+#         link: "https://4dots.itch.io/radion-heist"
+#         tagline: <br>A first-person cyberpunk-themed parkour game made in Unreal Engine that runs via P2P online multiplayer lobby system through Steam.
 
-      - title: HOLY (2020)
-        link: "https://aidansanjay.itch.io/holy"
-        tagline: <br>A DOOM inspired first-person shooter game (made in a 5-man team for a Game Jam).
+#       - title: HOLY (2020)
+#         link: "https://aidansanjay.itch.io/holy"
+#         tagline: <br>A DOOM inspired first-person shooter game (made in a 5-man team for a Game Jam).
 
-      - title: Trafficking (2018)
-        link: "https://uowmgames.itch.io/trafficking"
-        tagline: <br>A university project made for the Android platform where players control traffic lights in this puzzle solving game.
+#       - title: Trafficking (2018)
+#         link: "https://uowmgames.itch.io/trafficking"
+#         tagline: <br>A university project made for the Android platform where players control traffic lights in this puzzle solving game.
 
 skills:
     title: Skills &amp; Proficiency
@@ -147,11 +147,11 @@ skills:
       - name: HLSL/GLSL
         level: 55%
 
-      - name: HTML5/CSS
-        level: 30%
+      # - name: HTML5/CSS
+      #   level: 30%
 
-      - name: Ruby/Jekyll
-        level: 30%
+      # - name: Ruby/Jekyll
+      #   level: 30%
 
 tools: 
     title: Tools
