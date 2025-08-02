@@ -51,7 +51,7 @@ career-profile:
       </p>
 
       <p> 
-      I'm well-versed in core programming concepts such as <strong>OOP</strong>, <strong>DSA</strong> and <strong>memory management</strong>, and I have considerable experience with <strong>debugging</strong>.
+      I'm well-versed in core programming concepts such as <strong>OOP</strong>, <strong>DSA</strong> and <strong>memory management</strong>, and I have considerable experience with the<strong>C++ debugger</strong> and <strong>investigating crash dumps</strong>.
       While I've worked on a range of features, my primary interest lies in developing more intelligent and responsive <strong>character AI</strong>—particularly through well-designed state machines.
       </p>
 
@@ -92,10 +92,10 @@ experiences:
         details: |
           I contributed to porting PC games to consoles, including PlayStation and Xbox platforms.
           I've worked on various features such as <strong>gameplay mechanics</strong>, <strong>world systems</strong>, <strong>networking</strong>, <strong>UI</strong>, <strong>graphics/shaders</strong>, <strong>AI</strong> and <strong>in-house engine tools</strong>.
-          Aside from feature implementations, I also undertook various responsibilities such as <strong>code reviewing</strong>, <strong>debugging crashes</strong> and managing builds for the shipped product.
+          Aside from feature implementations, I also undertook various responsibilities such as <strong>code reviewing</strong>, <strong>debugging crashes</strong> and <strong>managing builds</strong> for the shipped product.
           <br>
           
-          Among the <strong>titles I've worked on</strong>:
+          Among the titles I've worked on:
             - Minecraft Dungeons (2022-2023)
             - Prison Architect 2 (2023-2024)
             - Rust: Console Edition (2024-present)
